@@ -1,11 +1,9 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: 'CDS Senior Interviews'
+date: 2022-04-14
+permalink: /posts/2022/04/senior-interviews/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - blog
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
